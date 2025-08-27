@@ -1,4 +1,9 @@
 
+<p align="center">
+  <img src="https://github.com/Harshita-prog30/Trading-Simulator/blob/main/Portfolio%20Growth%20Graph.png?raw=true" alt="Terminal Output" width="600">
+</p>
+
+
 ## Trading Simulator – Python Mini Project
  Overview
 ## This project is a Python-based trading simulator that allows users to buy and sell stocks, track their portfolio, and analyze performance over time. It is designed to demonstrate how investments, profits, and transaction costs affect trading decisions in a real-world-like scenario.
